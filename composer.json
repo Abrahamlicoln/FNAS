@@ -1,0 +1,6 @@
+{
+    "require": {
+        "messagebird/php-rest-api": "^3.0",
+        "africastalking/africastalking": "^3.0"
+    }
+}
